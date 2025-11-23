@@ -1,1 +1,1 @@
-# video-compilation-page
+This is a Freecodecamp lesson project about different tutorials teaching different sectors of front end web development
